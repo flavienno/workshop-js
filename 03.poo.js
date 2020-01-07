@@ -1,6 +1,5 @@
 //Créer une fonction constructeur Personne qui permet de créer un objet ayant les caractéristiques
 //suivantes :
-
 function Personne(nom, prenom, pseudo) {
     this.nom = nom;
     this.prenom = prenom;

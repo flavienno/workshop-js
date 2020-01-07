@@ -25,6 +25,6 @@ var afficherOperation = function (nomOperation, operation, nb1, nb2) {
 }
 
 afficherOperation('Somme', somme, 20, 40);
-afficherOperation('Multiplication',multiplication,10,20);
-afficherOperation('Soustraction',function(nb1,nb2){return nb1-nb2},15,5);
+afficherOperation('Multiplication', multiplication, 10, 20);
+afficherOperation('Soustraction', function (nb1, nb2) { return nb1 - nb2 }, 15, 5);
 
